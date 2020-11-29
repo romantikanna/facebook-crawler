@@ -5,9 +5,9 @@ Program:
 - Extracts last 10 posts from a specific public Facebook page. 
 (For example: http://facebook.com/153080620724) 
 - Saves a JSON file for each post with the following fields: 
-url 
-text 
-date 
+url, 
+text,
+date, 
 num_likes 
 
 Guidlines:
